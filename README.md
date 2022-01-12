@@ -9,5 +9,5 @@ Tuesday 11/01
 5. It helps solving problems and it doesn´t have strict syntax and rigid coding patterns, it´s similar to the human language so we can understand it faster.
 6. X
 7. X
-8.
-9.
+8. Flowcharts are important because they help us to study and understand difficult problems when we see them in simple diagrams
+9. X
