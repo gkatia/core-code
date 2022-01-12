@@ -2,8 +2,8 @@
 Core Code Bootcamp
 
 Tuesday 11/01
-1.
-2.
+1. Compilation and interpretation
+2. Interpreted
 3.
 4.
 5.
