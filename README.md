@@ -11,3 +11,10 @@ Tuesday 11/01
 7. X
 8. Flowcharts are important because they help us to study and understand difficult problems when we see them in simple diagrams
 9. X
+
+Wednesday
+1. X
+2. Binary: 11111001110 / hexadecimal: 7ce / decimal: 1998
+3. Binary: 1100101011111110 / hexadecimal: cafe
+4. X
+5.
