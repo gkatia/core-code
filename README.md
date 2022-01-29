@@ -18,3 +18,17 @@ Wednesday
 3. Binary: 1100101011111110 / hexadecimal: cafe
 4. X
 5.
+
+3rd Week
+Thursday 27/01
+
+3. function list(names){
+    var result;
+    if (names.length === 0) { result= ''; }
+    else if(names.length === 1) { result = names.map(p=>p.name).join(); }
+    else {
+      result = names.map(p=>p.name);
+      result = result.slice (0, names.length-1).join(', ')+' & '+names[names.length-1].name;
+    }
+    return result;
+  }
