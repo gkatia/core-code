@@ -124,8 +124,8 @@ export function logPerson(person: Person) {
 
 persons.forEach(logPerson);
 ```
-6. ...
-7. ...
+6. https://www.codewars.com/kata/54da5a58ea159efa38000836
+7. https://www.codewars.com/kata/5264d2b162488dc400000001
 
 ## - Wednesday
 1. https://www.codewars.com/kata/523f5d21c841566fde000009
