@@ -5,11 +5,11 @@
 
 ## - Tuesday
 1. https://www.codewars.com/kata/55c45be3b2079eccff00010f
-2. https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1 ✨
+2. https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1 
 3. https://www.codewars.com/kata/520b9d2ad5c005041100000f
 
 ## - Wednesday
-1. https://www.codewars.com/kata/52774a314c2333f0a7000688
+1. https://www.codewars.com/kata/52774a314c2333f0a7000688 ✨
 2. https://www.codewars.com/kata/517abf86da9663f1d2000003
 3. https://www.codewars.com/kata/54e6533c92449cc251001667
 
