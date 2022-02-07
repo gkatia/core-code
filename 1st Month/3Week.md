@@ -1,7 +1,7 @@
 ## - Monday
 1. https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 2. https://www.codewars.com/kata/526571aae218b8ee490006f4
-3. https://www.codewars.com/kata/54b724efac3d5402db00065e ✨
+3. https://www.codewars.com/kata/54b724efac3d5402db00065e
 
 ## - Tuesday
 1. https://www.codewars.com/kata/55c45be3b2079eccff00010f
