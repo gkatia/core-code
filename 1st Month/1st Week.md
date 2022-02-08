@@ -52,6 +52,41 @@
 		syscall
 ```
 5.  
+```sh
+.data
+name_prompt:
+	.asciiz	 "Enter your name "
+salute:
+	.asciiz	"Hello, "
+name:
+	.space	20	
+
+	.text
+main:
+	#Print name_prompt
+	li $v0, 4
+	la $a0, name_prompt
+	syscall
+
+	#Read name
+	li $v0, 8
+	la $a0, name
+	li $a1, 40
+	syscall
+
+	#Print salutation
+	li $v0, 4
+	la $a0, salute
+	syscall
+
+	#Print name
+	li $v0, 4
+	la $a0, name
+	syscall
+
+	li $v0, 10
+	syscall
+```
 
 ## - Thursday
 
