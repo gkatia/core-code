@@ -2,7 +2,7 @@
 
 1. Video Compilation and interpretation
 2. Interpreted. The Java source code first compiled into a binary byte code using Java compiler, then this byte code runs on the JVM (Java Virtual Machine), which is a software based interpreter. So Java is considered as both interpreted and compiled.
-3. 
+3. First, create variable amount and ask for the amount that user wants to convert. Second, divide the amount between the equivalent rate on $ (today: 35.5422) and print the result.
 4. X
 5. It helps solving problems and it doesn´t have strict syntax and rigid coding patterns, it´s similar to the human language so we can understand it faster.
 6. Declare variable year and ask user for the year he/she was born, save current year in variable currentYear, after that substract currentYear-year and print the result as the aprox. user age.
